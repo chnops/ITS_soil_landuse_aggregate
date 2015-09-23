@@ -1,3 +1,7 @@
+## Author: Fan Yang ##
+## change pathways before use ##
+## need RDPTools (https://github.com/rdpstaff/RDPTools), usearch (http://www.drive5.com/usearch/), python 2.7, biopython module, extended panda-seq (http://rdp.cme.msu.edu/download/RDP_Assembler.tgz) ##
+ 
 NAME="ITS"
 LOCATION="/PATH/TO/OUTPUT/DIRECTORY"
 INDEX_FILE="/PATH/TO/INDEX/FASTQ"
